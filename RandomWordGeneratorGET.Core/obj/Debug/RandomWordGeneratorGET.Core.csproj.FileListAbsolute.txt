@@ -1,0 +1,11 @@
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\bin\Debug\RandomWordGeneratorGET.Core.dll
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\bin\Debug\RandomWordGeneratorGET.Core.pdb
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\bin\Debug\Dapper.dll
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\bin\Debug\RandomWordGeneratorGET.Domain.dll
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\bin\Debug\RandomWordGeneratorGET.Domain.pdb
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\bin\Debug\Dapper.xml
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\obj\Debug\RandomWordGeneratorGET.Core.csproj.AssemblyReference.cache
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\obj\Debug\RandomWordGeneratorGET.Core.csproj.CoreCompileInputs.cache
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\obj\Debug\RandomWordGeneratorGET.Core.csproj.CopyComplete
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\obj\Debug\RandomWordGeneratorGET.Core.dll
+C:\Users\muzga\source\repos\RandomWordGeneratorGET.Core\obj\Debug\RandomWordGeneratorGET.Core.pdb
